@@ -240,7 +240,6 @@ Now you can start working on it!
 
 .. important::
 
-
     An important part of working on issues is documenting your work
     in such a way that it is easy for others to read and understand.
     A lot of Newcomer issues involve improving documentation.
@@ -258,43 +257,31 @@ Step 3. Verify the Issue Exists
 
 You must ensure that the issue you would like to work on exists. You should 
 look through the code or documentations to spot the region where the issue resides. 
-This is an important step while taking up an issue which is often overlooked.
+This is an important step while taking up an issue and is often overlooked.
 
 .. important::
 
-
     * If the issue is a bug in the source code then that shall be confirmed by 
-      executing the relevant code or files. You should also figure out how will you rectify this bug.
+      executing the relevant code or files. You should also figure out how will
+       you rectify this bug.
 
-    * If the issue is about some discrepency in the documentation, then locate the region in the documentation where it exists. 
-      Find out how it can be removed.
+    * If there is a discrepency in the documentation, then look for it within the 
+      documentation. Find out how it can be removed.
 
-    * If the issue requires some additional functionality to be added, then check whether it 
+    * If there is some additional functionality to be added, then check whether it 
       is possible and does not conflict with the existing functionalities.
 
-    * If the issue requires the code to have some comments, then provide comments in plain and 
+    * If the code requires some comments, then provide comments in plain and 
       easy-to-understand language.
 
-    * If the issue is some grammatical or spelling error either in comments or documentation, 
-      then figure out how it can be corrected. A wrong grammar or a misspelt word can make things difficult 
+    * If there are some grammatical errors either in comments or documentation, 
+      then figure out how it can be corrected. A wrong grammar can make thing difficult 
       to interpret and sometimes totally incomprehensible!
 
 You must verify that the issue actually exists and work on it only if you know how to fix it. 
 While verifying the issue, you must start thinking in the direction of resolving the issues as well. 
 If you are able to find a fix for the issue, then you can definitely claim it!
 
-The following should also be done to confirm the validity of the issue:
-
-- Check for 'closed' tag on the issue. If you can see the red-coloured 'closed' tag, then 
-  it means that the issue is closed. An issue is closed when a pull request resolving that issue 
-  is merged into the repository's default branch.
-- Check if pull request exists or not. If it exists, then you must look for some other issue 
-  because an active PR for an issue means that someone else is working on that issue and that person's 
-  work is yet to be reviewed.
-- You can also type in the issue number in the search bar appearing on the issues page. If the issue 
-  exists then it will appear in the search results. Also ensure that it is not assigned to anyone by checking the 'Assignee' column.
-
-Once you are done with the above, you are good to go!
 
 Step 4. Creating a Fork and Testing Your Changes
 ------------------------------------------------
